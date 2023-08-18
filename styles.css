@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ysabeau Infant", sans-serif;
+}
+
+.container-form {
+  width: 1200px;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 50px;
+  font-size: 20px;
+}
+
+.imglogo {
+  align-items: center;
+  justify-content: center;
+  padding: 0px 500px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+.registro {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.btn {
+  background-color: aqua;
+  padding: 5px 5px;
+  font-size: 20px;
+  border-color: aqua;
+  border-radius: 8px;
+}
